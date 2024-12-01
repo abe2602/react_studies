@@ -1,0 +1,13 @@
+.welcome-message {
+  font-size: 2.5em;
+  background-color: aquamarine;
+  color: black;
+  margin: 10px;
+}
+
+.login-popup {
+  font-size: 2.5em;
+  background-color: red;
+  color: white;
+  margin: 10px;
+}

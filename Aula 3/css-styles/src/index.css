@@ -1,0 +1,9 @@
+/*Good for general styles*/
+.button {
+  background-color: cyan;
+  color: black;
+  padding:  10px 20px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+}

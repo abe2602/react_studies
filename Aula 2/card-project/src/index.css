@@ -1,0 +1,27 @@
+.card {
+  border: 1 px solid black;
+  border-radius: 8px;
+  box-shadow: 5px 5px 5px gray;
+  padding: 20px;
+  text-align: center;
+  margin: 10px;
+  max-width: 250px;
+  display: inline-block;
+}
+
+.card .card-image {
+  max-width: 80%;
+  max-height: auto;
+  clip-path: circle();
+}
+
+.card .card-title {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  color: black
+}
+
+.card .card-text {
+  font-family: Arial, Helvetica, sans-serif;
+  color: black
+}

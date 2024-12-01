@@ -1,0 +1,30 @@
+.counter-container {
+  text-align: center;
+  display: block;
+  display: inline-block;
+}
+
+.counter-display {
+  font-size:xx-large;
+  font-weight: bold;
+  border: 1 px solid black;
+  border-radius: 4px;
+  padding: 16px;
+  text-align: center;
+  box-shadow: 2px 2px 2px gray;
+  display: inline-block;
+}
+
+.counter-button {
+  background-color: blue;
+  border-radius: 4px;
+  border-color: transparent;
+  margin: 8px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  color: ghostwhite;
+}
+
+.counter-button:hover {
+  background-color: red;
+}
